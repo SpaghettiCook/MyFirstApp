@@ -12,7 +12,7 @@ import android.widget.TextView;
 
 import java.util.ArrayList;
 
-
+// some extra comments
 public class MyActivity extends ActionBarActivity implements View.OnClickListener{
 
     ArrayAdapter mArrayAdapter;
