@@ -88,6 +88,7 @@ public class MyActivity extends ActionBarActivity implements View.OnClickListene
         // Create an Intent to share your content
         setShareIntent();
 
+        // some comment
         return true;
     }
 
